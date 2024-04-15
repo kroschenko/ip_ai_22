@@ -71,7 +71,7 @@ To learn more about the platform, check out our [documentation](https://github.c
   git clone https://github.com/ostis-ai/ostis-web-platform
   cd ostis-web-platform
   ./scripts/install_minimal_platform.sh
-  ./scripts/run_sc_component_manager.sh
+  ./scripts/run_sc_machine.sh
   ```
 
 - Natively
