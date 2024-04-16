@@ -68,7 +68,7 @@ To learn more about the platform, check out our [documentation](https://github.c
 - Natively (using sc-component-manager)
 
   ```sh
-  git clone https://github.com/ostis-ai/ostis-web-platform
+  git clone https://github.com/ostis-ai/ostis-web-platform --recursive
   cd ostis-web-platform
   ./scripts/install_minimal_platform.sh
   ./scripts/run_sc_machine.sh
