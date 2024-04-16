@@ -72,6 +72,10 @@ To learn more about the platform, check out our [documentation](https://github.c
   cd ostis-web-platform
   ./scripts/install_minimal_platform.sh
   ./scripts/run_sc_machine.sh
+  # and write write the following commands in the terminal:
+  # components init
+  # components install sc_web
+  # components install knowledge_base_ims
   ```
 
 - Natively
